@@ -1,6 +1,6 @@
 $(() => {
     $("#adicionar").click(() =>{
-        console.log("teste4")
+        console.log("teste5")
         $("#table-dados tbody").append(
         `<tr>
             <td>#</td>   
